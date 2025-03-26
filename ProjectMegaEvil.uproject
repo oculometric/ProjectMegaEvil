@@ -231,6 +231,10 @@
 		{
 			"Name": "N10XSourceCodeAccess",
 			"Enabled": false
+		},
+		{
+			"Name": "GizmoFramework",
+			"Enabled": true
 		}
 	]
 }
