@@ -236,5 +236,10 @@
 			"Name": "GizmoFramework",
 			"Enabled": true
 		}
+	],
+	"TargetPlatforms": [
+		"Linux",
+		"Mac",
+		"Windows"
 	]
 }
